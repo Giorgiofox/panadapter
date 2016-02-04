@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+
+# IZ2XBZ version for Raspbery PTouch and Kx3 with more Functions 04/02/2016
+
+
 # Program iq.py - spectrum displays from quadrature sampled IF data.
 # Copyright (C) 2013-2014 Martin Ewing
 #
