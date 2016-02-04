@@ -1,3 +1,28 @@
+This is a special versione to emulate as close is possible a PX3 Panadapter from Elecrat.
+More documentation coming soon.
+
+First version on Feb 2016
+
+Difference from AA6E version:
+
+Different Spectrum/Waterfall ratio from 3:1 to 1:3
+Different Colors
+
+Tracking mode from radio, and showing bandwith of active filters/mode
+Tracking VFO B (I hope :)
+
+More function cooming soon,
+Follow me on Twitter @giorgiofox
+
+
+
+
+
+
+
+
+Original version:
+
 Tiny Python Panadapter (QST, April, 2014)
 Martin Ewing AA6E
 Revised May 20, 2014
